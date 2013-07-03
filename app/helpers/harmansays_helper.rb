@@ -1,0 +1,2 @@
+module HarmansaysHelper
+end
